@@ -18,7 +18,6 @@ body{
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
-    text-align: center;
 }
 @keyframes glow{
     0%, 100%{
